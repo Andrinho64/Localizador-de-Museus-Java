@@ -45,4 +45,9 @@ public class CoordinateUtil {
 
     return c * 6371;
   }
+
+  public static boolean isValidCoordinate(Coordinate coordinate) {
+    // TODO Auto-generated method stub
+    throw new UnsupportedOperationException("Unimplemented method 'isValidCoordinate'");
+  }
 }
